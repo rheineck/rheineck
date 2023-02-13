@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi, I'm Raphael 👋
 
-<!--
-**rheineck/rheineck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇬🇧 I'm Chemical Engineer and Master in Pharmaceutical Sciences, now studying to be a Full-Stack Developper.
 
-Here are some ideas to get you started:
+🇧🇷 Sou Engenheiro Químico e Mestre em Ciências Farmacêuticas, agora estudando para ser Desenvolvedor Full-Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Current Tools
+
+💻 Front-End Web with ReactJS ⚛
+
+🖥 Back-End with NodeJS
+
+## Tecnologies
+- JavaScript
+- HTML5
+- CSS3
+
+[![Rheineck's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheineck&theme=dracula&show_icons=true)](https://github.com/rheineck/github-readme-stats)
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-gilioli-heineck/)
+[![portfolio](https://img.shields.io/badge/Em_Desenvolvimento-000?style=for-the-badge)]()
