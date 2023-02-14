@@ -1,6 +1,6 @@
 ## Hi, I'm Raphael 👋
 
-🇬🇧 I'm Chemical Engineer and Master in Pharmaceutical Sciences, now studying to be a Full-Stack Developper.
+🇬🇧 I'm Chemical Engineer and Master in Pharmaceutical Sciences, now studying to be a Full-Stack Developer.
 
 🇧🇷 Sou Engenheiro Químico e Mestre em Ciências Farmacêuticas, agora estudando para ser Desenvolvedor Full-Stack.
 
