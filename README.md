@@ -8,7 +8,9 @@
 
 💻 Front-End Web with ReactJS ⚛
 
-🖥 Back-End with NodeJS
+🖥 Back-End with NodeJS, ExpressJS
+   Database with KnexJS, SQLite3
+
 
 ## Tecnologies
 - JavaScript
