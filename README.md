@@ -17,7 +17,7 @@
 - HTML5
 - CSS3
 
-[![Rheineck's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheineck&theme=dracula&show_icons=true)](https://github.com/rheineck/github-readme-stats)
+[![Rheineck's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheineck&theme=default#gh-light-mode-onl&show_icons=true)](https://github.com/rheineck/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheineck&layout=donut-vertical)](https://github.com/rheineck/github-readme-stats)
 
