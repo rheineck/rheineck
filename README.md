@@ -18,6 +18,7 @@
 - CSS3
 
 [![Rheineck's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheineck&theme=dracula&show_icons=true)](https://github.com/rheineck/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheinecka&layout=compact)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-gilioli-heineck/)
