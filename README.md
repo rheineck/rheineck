@@ -1,21 +1,15 @@
 ## Hi, I'm Raphael 👋
 
-🇬🇧 I'm Chemical Engineer and Master in Pharmaceutical Sciences, now studying to be a Full-Stack Developer.
+🇬🇧 I'm Chemical Engineer and Master in Pharmaceutical Sciences, and professor at UNIVALI (Universidade do Vale do Itajaí).
 
-🇧🇷 Sou Engenheiro Químico e Mestre em Ciências Farmacêuticas, agora estudando para ser Desenvolvedor Full-Stack.
-
-## 🛠 Current Tools
-
-💻 Front-End Web with ReactJS ⚛
-
-🖥 Back-End with NodeJS, ExpressJS
-   Database with KnexJS, SQLite3
-
+🇧🇷 Sou Engenheiro Químico e Mestre em Ciências Farmacêuticas, e professor na UNIVALI.
 
 ## Tecnologies
+- Matlab
 - JavaScript
 - HTML5
 - CSS3
+- SQL
 
 [![Rheineck's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheineck&theme=default#gh-light-mode-onl&show_icons=true)](https://github.com/rheineck/github-readme-stats)
 
@@ -23,4 +17,3 @@
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-gilioli-heineck/)
-[![portfolio](https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge)](https://portfolio-rheineck.netlify.app/)
